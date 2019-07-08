@@ -1,0 +1,4 @@
+#Sun Apr 28 12:31:28 CST 2019
+base.0=F\:\\shipingText\\saveSecard\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

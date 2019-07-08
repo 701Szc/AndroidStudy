@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\shipingText\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="621ee7559e8273263f4ed27b9edf819838ed4dba">
+        <dex dex="F:\shipingText\MyApplication\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9648b8d508c0d23ab59f611ab904c6fd4ab3b4a9.jar" />
+    </item>
+
+</items>
