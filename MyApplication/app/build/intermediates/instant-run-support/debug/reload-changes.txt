@@ -1,0 +1,10 @@
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asus\myapplication\R$mipmap$override.class
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$layout$override.class
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asus\myapplication\R$id$override.class
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asus\myapplication\R$style$override.class
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asus\myapplication\R$styleable$override.class
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asus\myapplication\R$layout$override.class
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asus\myapplication\FourWays$override.class
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asus\myapplication\R$integer$override.class
+CHANGED,F:\shipingText\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asus\myapplication\R$string$override.class

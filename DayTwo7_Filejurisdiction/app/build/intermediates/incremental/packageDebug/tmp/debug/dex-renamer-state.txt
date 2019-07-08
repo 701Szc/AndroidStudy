@@ -1,0 +1,4 @@
+#Sun Apr 28 14:28:49 CST 2019
+base.0=F\:\\shipingText\\DayTwo7_Filejurisdiction\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

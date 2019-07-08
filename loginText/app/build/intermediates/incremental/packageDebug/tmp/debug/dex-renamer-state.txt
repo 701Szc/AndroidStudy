@@ -1,0 +1,4 @@
+#Thu Apr 25 19:51:31 CST 2019
+base.0=F\:\\shipingText\\loginText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
