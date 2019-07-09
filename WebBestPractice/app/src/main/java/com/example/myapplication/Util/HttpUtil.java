@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+
 public class HttpUtil {
     public static void sendHttpRequest(final String address, final HttpCallbackListener listener) {
         new Thread(new Runnable() {
@@ -45,5 +48,13 @@ public class HttpUtil {
                 }
             }
         }).start();
+    }
+
+    public static void sendOkhttpRequest(String address, okhttp3.Callback callback){
+        OkHttpClient client = new OkHttpClient();
+        Request request = new Request.Builder()
+                                     .url(address)
+                                     .build();
+        client.newCall(request).enqueue(callback);
     }
 }
